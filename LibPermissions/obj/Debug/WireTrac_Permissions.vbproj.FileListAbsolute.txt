@@ -1,0 +1,70 @@
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions_3.5\bin\Debug\WireTrac_Permissions.dll
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions_3.5\bin\Debug\WireTrac_Permissions.pdb
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions_3.5\bin\Debug\WireTrac_Permissions.xml
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions_3.5\bin\Debug\radTools.dll
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions_3.5\bin\Debug\radTools.pdb
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions_3.5\bin\Debug\radTools.xml
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions_3.5\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions_3.5\obj\Debug\WireTrac_Permissions.Resources.resources
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions_3.5\obj\Debug\WireTrac_Permissions.vbproj.GenerateResource.Cache
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions_3.5\obj\Debug\WireTrac_Permissions.dll
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions_3.5\obj\Debug\WireTrac_Permissions.xml
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions_3.5\obj\Debug\WireTrac_Permissions.pdb
+D:\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\WireTrac_Permissions.dll
+D:\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\WireTrac_Permissions.pdb
+D:\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\WireTrac_Permissions.xml
+D:\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\radTools.dll
+D:\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\radTools.pdb
+D:\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\radTools.xml
+D:\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.Resources.resources
+D:\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.vbproj.GenerateResource.Cache
+D:\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.dll
+D:\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.xml
+D:\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.pdb
+C:\Dave\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\WireTrac_Permissions.dll
+C:\Dave\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\WireTrac_Permissions.pdb
+C:\Dave\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\WireTrac_Permissions.xml
+C:\Dave\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\radTools.dll
+C:\Dave\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\radTools.pdb
+C:\Dave\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\radTools.xml
+C:\Dave\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\obj\Debug\ResolveAssemblyReference.cache
+C:\Dave\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.Resources.resources
+C:\Dave\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.vbproj.GenerateResource.Cache
+C:\Dave\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.dll
+C:\Dave\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.xml
+C:\Dave\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.pdb
+D:\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\AntiXssLibrary.dll
+D:\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\AntiXssLibrary.xml
+D:\My Documents\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\WireTrac_Permissions.dll
+D:\My Documents\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\WireTrac_Permissions.pdb
+D:\My Documents\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\WireTrac_Permissions.xml
+D:\My Documents\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\radTools.dll
+D:\My Documents\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\AntiXssLibrary.dll
+D:\My Documents\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\radTools.pdb
+D:\My Documents\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\radTools.xml
+D:\My Documents\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\bin\Debug\AntiXssLibrary.xml
+D:\My Documents\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.Resources.resources
+D:\My Documents\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.vbproj.GenerateResource.Cache
+D:\My Documents\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.dll
+D:\My Documents\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.xml
+D:\My Documents\Work\Projects\Kirby Risk\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.pdb
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\Wiretrac_Permissions_3.5\bin\Debug\WireTrac_Permissions.dll
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\Wiretrac_Permissions_3.5\bin\Debug\WireTrac_Permissions.pdb
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\Wiretrac_Permissions_3.5\bin\Debug\radTools.dll
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\Wiretrac_Permissions_3.5\bin\Debug\radTools.pdb
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.vbprojResolveAssemblyReference.cache
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.Resources.resources
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.vbproj.GenerateResource.Cache
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.dll
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.pdb
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\Kirby Risk\BatchRouting_3.5\Wiretrac_Permissions_3.5\bin\Debug\WireTrac_Permissions.dll
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\Kirby Risk\BatchRouting_3.5\Wiretrac_Permissions_3.5\bin\Debug\WireTrac_Permissions.pdb
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\Kirby Risk\BatchRouting_3.5\Wiretrac_Permissions_3.5\bin\Debug\radTools.dll
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\Kirby Risk\BatchRouting_3.5\Wiretrac_Permissions_3.5\bin\Debug\radTools.pdb
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\Kirby Risk\BatchRouting_3.5\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.Resources.resources
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\Kirby Risk\BatchRouting_3.5\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.vbproj.GenerateResource.Cache
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\Kirby Risk\BatchRouting_3.5\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.dll
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\Kirby Risk\BatchRouting_3.5\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.pdb
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\Kirby Risk\BatchRouting_3.5\Wiretrac_Permissions_3.5\obj\Debug\WireTrac_Permissions.vbprojResolveAssemblyReference.cache

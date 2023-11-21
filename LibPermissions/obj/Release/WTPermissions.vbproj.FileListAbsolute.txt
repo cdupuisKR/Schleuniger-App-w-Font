@@ -1,0 +1,6 @@
+C:\_Projects\KR\WTPermissions\bin\Release\WTPermissions.dll
+C:\_Projects\KR\WTPermissions\bin\Release\TrilogyTools.dll
+C:\_Projects\KR\WTPermissions\obj\Release\WTPermissions.vbprojResolveAssemblyReference.cache
+C:\_Projects\KR\WTPermissions\obj\Release\Trilogy.Wiretrac.Permissions.Resources.resources
+C:\_Projects\KR\WTPermissions\obj\Release\WTPermissions.vbproj.GenerateResource.Cache
+C:\_Projects\KR\WTPermissions\obj\Release\WTPermissions.dll

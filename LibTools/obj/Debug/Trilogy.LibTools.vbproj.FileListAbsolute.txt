@@ -1,0 +1,18 @@
+C:\_Projects\Trilogy\LibTools\bin\Debug\Trilogy.LibTools.dll
+C:\_Projects\Trilogy\LibTools\bin\Debug\Trilogy.LibTools.pdb
+C:\_Projects\Trilogy\LibTools\obj\Debug\Trilogy.LibTools.vbproj.CoreCompileInputs.cache
+C:\_Projects\Trilogy\LibTools\obj\Debug\Trilogy.LibTools.dll
+C:\_Projects\Trilogy\LibTools\obj\Debug\Trilogy.LibTools.pdb
+C:\_Projects\Trilogy\LibTools\obj\Debug\Trilogy.LibTools.vbproj.AssemblyReference.cache
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\LibTools\bin\Debug\Trilogy.LibTools.dll
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\LibTools\bin\Debug\Trilogy.LibTools.pdb
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\LibTools\obj\Debug\Trilogy.LibTools.vbproj.AssemblyReference.cache
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\LibTools\obj\Debug\Trilogy.LibTools.vbproj.CoreCompileInputs.cache
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\LibTools\obj\Debug\Trilogy.LibTools.dll
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\LibTools\obj\Debug\Trilogy.LibTools.pdb
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\LibTools\bin\Debug\Trilogy.LibTools.dll
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\LibTools\bin\Debug\Trilogy.LibTools.pdb
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\LibTools\obj\Debug\Trilogy.LibTools.vbproj.AssemblyReference.cache
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\LibTools\obj\Debug\Trilogy.LibTools.vbproj.CoreCompileInputs.cache
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\LibTools\obj\Debug\Trilogy.LibTools.dll
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\LibTools\obj\Debug\Trilogy.LibTools.pdb

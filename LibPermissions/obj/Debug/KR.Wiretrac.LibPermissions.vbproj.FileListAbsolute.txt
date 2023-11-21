@@ -1,0 +1,33 @@
+C:\_Projects\KR\WireTrac\LibPermissions\bin\Debug\KR.Wiretrac.LibPermissions.dll
+C:\_Projects\KR\WireTrac\LibPermissions\bin\Debug\KR.Wiretrac.LibPermissions.pdb
+C:\_Projects\KR\WireTrac\LibPermissions\bin\Debug\Trilogy.LibTools.dll
+C:\_Projects\KR\WireTrac\LibPermissions\bin\Debug\Trilogy.LibTools.pdb
+C:\_Projects\KR\WireTrac\LibPermissions\obj\Debug\Trilogy.KR.Wiretrac.LibPermissions.Resources.resources
+C:\_Projects\KR\WireTrac\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.vbproj.GenerateResource.cache
+C:\_Projects\KR\WireTrac\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.vbproj.CoreCompileInputs.cache
+C:\_Projects\KR\WireTrac\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.vbproj.CopyComplete
+C:\_Projects\KR\WireTrac\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.dll
+C:\_Projects\KR\WireTrac\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.pdb
+C:\_Projects\KR\WireTrac\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.vbproj.AssemblyReference.cache
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\LibPermissions\bin\Debug\KR.Wiretrac.LibPermissions.dll
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\LibPermissions\bin\Debug\KR.Wiretrac.LibPermissions.pdb
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\LibPermissions\bin\Debug\Trilogy.LibTools.dll
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\LibPermissions\bin\Debug\Trilogy.LibTools.pdb
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.vbproj.AssemblyReference.cache
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\LibPermissions\obj\Debug\Trilogy.KR.Wiretrac.LibPermissions.Resources.resources
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.vbproj.GenerateResource.cache
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.vbproj.CoreCompileInputs.cache
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.vbproj.CopyComplete
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.dll
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.pdb
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\LibPermissions\bin\Debug\KR.Wiretrac.LibPermissions.dll
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\LibPermissions\bin\Debug\KR.Wiretrac.LibPermissions.pdb
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\LibPermissions\bin\Debug\Trilogy.LibTools.dll
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\LibPermissions\bin\Debug\Trilogy.LibTools.pdb
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.vbproj.AssemblyReference.cache
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\LibPermissions\obj\Debug\Trilogy.KR.Wiretrac.LibPermissions.Resources.resources
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.vbproj.GenerateResource.cache
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.vbproj.CoreCompileInputs.cache
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.vbproj.CopyComplete
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.dll
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.pdb

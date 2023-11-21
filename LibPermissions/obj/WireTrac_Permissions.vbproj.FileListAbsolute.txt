@@ -1,0 +1,9 @@
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions\bin\Debug\WireTrac_Permissions.dll
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions\bin\Debug\WireTrac_Permissions.pdb
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions\bin\Debug\WireTrac_Permissions.xml
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions\obj\Debug\WireTrac_Permissions.Resources.resources
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions\obj\Debug\WireTrac_Permissions.vbproj.GenerateResource.Cache
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions\obj\Debug\WireTrac_Permissions.dll
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions\obj\Debug\WireTrac_Permissions.xml
+D:\Work\Projects\Kirby Risk\BatchRouting_Permissions\obj\Debug\WireTrac_Permissions.pdb

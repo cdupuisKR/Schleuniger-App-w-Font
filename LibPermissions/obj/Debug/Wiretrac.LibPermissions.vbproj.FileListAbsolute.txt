@@ -1,0 +1,9 @@
+C:\_Projects\KR\WireTrac\LibPermissions\bin\Debug\Trilogy.LibTools.dll
+C:\_Projects\KR\WireTrac\LibPermissions\bin\Debug\Trilogy.LibTools.pdb
+C:\_Projects\KR\WireTrac\LibPermissions\obj\Debug\Wiretrac.LibPermissions.vbprojResolveAssemblyReference.cache
+C:\_Projects\KR\WireTrac\LibPermissions\obj\Debug\Wiretrac.LibPermissions.vbproj.GenerateResource.Cache
+C:\_Projects\KR\WireTrac\LibPermissions\bin\Debug\KR.Wiretrac.LibPermissions.dll
+C:\_Projects\KR\WireTrac\LibPermissions\bin\Debug\KR.Wiretrac.LibPermissions.pdb
+C:\_Projects\KR\WireTrac\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.dll
+C:\_Projects\KR\WireTrac\LibPermissions\obj\Debug\KR.Wiretrac.LibPermissions.pdb
+C:\_Projects\KR\WireTrac\LibPermissions\obj\Debug\Trilogy.KR.Wiretrac.LibPermissions.Resources.resources
