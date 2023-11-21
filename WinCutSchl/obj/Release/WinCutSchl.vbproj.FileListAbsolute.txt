@@ -1,0 +1,65 @@
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\WinCutSchl.exe.config
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\WinCutSchl.exe
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\WinCutSchl.pdb
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\WinCutSchl.xml
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\BatchRouting_Library.dll
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Interop.Cayman.dll
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\radTools.dll
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\WinCutInterceptor.XmlSerializers.dll
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\WireTrac_Permissions.dll
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\radTools.pdb
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\radTools.xml
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\BatchRouting_Library.pdb
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\BatchRouting_Library.xml
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\WireTrac_Permissions.pdb
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\WireTrac_Permissions.xml
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\ResolveAssemblyReference.cache
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.DataGridFormatCellEventArgs.resources
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.FormattableTextBoxColumn.resources
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.frmCutSchl.resources
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.KnowDotNet.KDNGrid.CGridTextBoxStyle.resources
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.Resources.resources
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.vbproj.GenerateResource.Cache
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.exe
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.xml
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.pdb
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\WinCutSchl.exe.config
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.exe
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.xml
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.pdb
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Release\WinCutSchl.exe.config
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Release\WinCutSchl.exe
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Release\BatchRouting_Library.dll
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Release\Interop.Cayman.dll
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Release\radTools.dll
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Release\WinCutInterceptor.XmlSerializers.dll
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Release\WireTrac_Permissions.dll
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.vbprojResolveAssemblyReference.cache
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.DataGridFormatCellEventArgs.resources
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.FormattableTextBoxColumn.resources
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.frmCutSchl.resources
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.KnowDotNet.KDNGrid.CGridTextBoxStyle.resources
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.Resources.resources
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.vbproj.GenerateResource.Cache
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Release\WinCutSchl.exe
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Release\WinCutSchl.DataGridFormatCellEventArgs.resources
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Release\WinCutSchl.FormattableTextBoxColumn.resources
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Release\WinCutSchl.frmCutSchl.resources
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Release\WinCutSchl.KnowDotNet.KDNGrid.CGridTextBoxStyle.resources
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Release\WinCutSchl.Resources.resources
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Release\WinCutSchl.vbproj.GenerateResource.Cache
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Release\WinCutSchl.vbproj.CoreCompileInputs.cache
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Release\WinCutSchl.exe
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Release\WinCutSchl.exe.config
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Release\WinCutSchl.exe
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Release\KR.Wiretrac.LibPermissions.dll
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Release\KR.Wiretrac.LibRouting.dll
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Release\Trilogy.LibTools.dll
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Release\Trilogy.LibWebTools.dll
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Release\WinCutInterceptor.XmlSerializers.dll
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Release\AjaxControlToolkit.dll
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Release\Trilogy.LibFramework.dll
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Release\AntiXssLibrary.dll
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Release\KR.Wiretrac.LibRouting.dll.config
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Release\WinCutSchl.vbprojAssemblyReference.cache
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Release\WinCutSchl.vbproj.CopyComplete

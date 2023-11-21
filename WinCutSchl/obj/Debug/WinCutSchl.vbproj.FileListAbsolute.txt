@@ -1,0 +1,155 @@
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\WinCutSchl.exe.config
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\WinCutSchl.exe
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\WinCutSchl.pdb
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\WinCutSchl.xml
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\BatchRouting_Library.dll
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\radTools.dll
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\WireTrac_Permissions.dll
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\radTools.pdb
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\radTools.xml
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\BatchRouting_Library.pdb
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\BatchRouting_Library.xml
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\WireTrac_Permissions.pdb
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\WireTrac_Permissions.xml
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.DataGridFormatCellEventArgs.resources
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.FormattableTextBoxColumn.resources
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.frmCutSchl.resources
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.KnowDotNet.KDNGrid.CGridTextBoxStyle.resources
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.Resources.resources
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.vbproj.GenerateResource.Cache
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.exe
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.xml
+D:\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.pdb
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\WinCutSchl.exe.config
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\WinCutSchl.exe
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\WinCutSchl.pdb
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\WinCutSchl.xml
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\BatchRouting_Library.dll
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\radTools.dll
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\WireTrac_Permissions.dll
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\radTools.pdb
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\radTools.xml
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\BatchRouting_Library.pdb
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\BatchRouting_Library.xml
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\WireTrac_Permissions.pdb
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\WireTrac_Permissions.xml
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\ResolveAssemblyReference.cache
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.DataGridFormatCellEventArgs.resources
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.FormattableTextBoxColumn.resources
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.frmCutSchl.resources
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.KnowDotNet.KDNGrid.CGridTextBoxStyle.resources
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.Resources.resources
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.vbproj.GenerateResource.Cache
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.exe
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.xml
+C:\Dave\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.pdb
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\WinCutSchl.exe.config
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\WinCutSchl.exe
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\WinCutSchl.pdb
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\BatchRouting_Library.dll
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\Interop.Cayman.dll
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\radTools.dll
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\WireTrac_Permissions.dll
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\radTools.pdb
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\BatchRouting_Library.pdb
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\bin\Debug\WireTrac_Permissions.pdb
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.vbprojResolveAssemblyReference.cache
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.DataGridFormatCellEventArgs.resources
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.FormattableTextBoxColumn.resources
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.frmCutSchl.resources
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.KnowDotNet.KDNGrid.CGridTextBoxStyle.resources
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.Resources.resources
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.vbproj.GenerateResource.Cache
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.exe
+D:\My Documents\Work\Projects\Kirby Risk\BatchRouting_3.5\WinCutSchl\obj\Debug\WinCutSchl.pdb
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Debug\WinCutSchl.DataGridFormatCellEventArgs.resources
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Debug\WinCutSchl.FormattableTextBoxColumn.resources
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Debug\WinCutSchl.frmCutSchl.resources
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Debug\WinCutSchl.KnowDotNet.KDNGrid.CGridTextBoxStyle.resources
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Debug\WinCutSchl.Resources.resources
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Debug\WinCutSchl.vbproj.GenerateResource.cache
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Debug\WinCutSchl.vbproj.CoreCompileInputs.cache
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Debug\WinCutSchl.exe.config
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Debug\WinCutSchl.exe
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Debug\WinCutSchl.pdb
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Debug\KR.Wiretrac.LibPermissions.dll
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Debug\KR.Wiretrac.LibRouting.dll
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Debug\Trilogy.LibTools.dll
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Debug\Trilogy.LibTools.pdb
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Debug\KR.Wiretrac.LibPermissions.pdb
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Debug\KR.Wiretrac.LibRouting.pdb
+C:\_Projects\KR\WireTrac\WinCutSchl\bin\Debug\KR.Wiretrac.LibRouting.dll.config
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Debug\WinCutSchl.vbproj.CopyComplete
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Debug\WinCutSchl.exe
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Debug\WinCutSchl.pdb
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Debug\WinCutSchl.vbproj.AssemblyReference.cache
+C:\_Projects\KR\WireTrac\WinCutSchl\obj\Debug\WinCutSchl.vbproj.SuggestedBindingRedirects.cache
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.vbproj.AssemblyReference.cache
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.vbproj.SuggestedBindingRedirects.cache
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.DataGridFormatCellEventArgs.resources
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.FormattableTextBoxColumn.resources
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.frmCutSchl.resources
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.KnowDotNet.KDNGrid.CGridTextBoxStyle.resources
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.Resources.resources
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.vbproj.GenerateResource.cache
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.vbproj.CoreCompileInputs.cache
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.exe
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.pdb
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\WinCutSchl.exe.config
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\WinCutSchl.exe
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\WinCutSchl.pdb
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\KR.Wiretrac.LibPermissions.dll
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\KR.Wiretrac.LibRouting.dll
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\Trilogy.LibTools.dll
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\KR.Wiretrac.LibPermissions.pdb
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\KR.Wiretrac.LibRouting.pdb
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\KR.Wiretrac.LibRouting.dll.config
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\Trilogy.LibTools.pdb
+C:\_Projects\KR\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.vbproj.CopyComplete
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\WinCutSchl.exe.config
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\WinCutSchl.exe
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\WinCutSchl.pdb
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\KR.Wiretrac.LibPermissions.dll
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\KR.Wiretrac.LibRouting.dll
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\Trilogy.LibTools.dll
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\KR.Wiretrac.LibPermissions.pdb
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\KR.Wiretrac.LibRouting.pdb
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\KR.Wiretrac.LibRouting.dll.config
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\bin\Debug\Trilogy.LibTools.pdb
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.vbproj.AssemblyReference.cache
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.vbproj.SuggestedBindingRedirects.cache
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.DataGridFormatCellEventArgs.resources
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.FormattableTextBoxColumn.resources
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.frmCutSchl.resources
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.KnowDotNet.KDNGrid.CGridTextBoxStyle.resources
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.Resources.resources
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.vbproj.GenerateResource.cache
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.vbproj.CoreCompileInputs.cache
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.vbproj.CopyComplete
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.exe
+\\svc39ENG1\Engineering\Schleuniger\WinCutSchl Soln For Christian\WinCutSchl\obj\Debug\WinCutSchl.pdb
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\bin\Debug\WinCutSchl.exe.config
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\bin\Debug\WinCutSchl.exe
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\bin\Debug\WinCutSchl.pdb
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\bin\Debug\KR.Wiretrac.LibPermissions.dll
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\bin\Debug\KR.Wiretrac.LibRouting.dll
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\bin\Debug\Trilogy.LibTools.dll
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\bin\Debug\KR.Wiretrac.LibPermissions.pdb
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\bin\Debug\KR.Wiretrac.LibRouting.pdb
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\bin\Debug\KR.Wiretrac.LibRouting.dll.config
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\bin\Debug\Trilogy.LibTools.pdb
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\obj\Debug\WinCutSchl.vbproj.AssemblyReference.cache
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\obj\Debug\WinCutSchl.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\obj\Debug\WinCutSchl.DataGridFormatCellEventArgs.resources
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\obj\Debug\WinCutSchl.FormattableTextBoxColumn.resources
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\obj\Debug\WinCutSchl.frmCutSchl.resources
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\obj\Debug\WinCutSchl.KnowDotNet.KDNGrid.CGridTextBoxStyle.resources
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\obj\Debug\WinCutSchl.Resources.resources
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\obj\Debug\WinCutSchl.vbproj.GenerateResource.cache
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\obj\Debug\WinCutSchl.vbproj.CoreCompileInputs.cache
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\obj\Debug\WinCutSchl.vbproj.CopyComplete
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\obj\Debug\WinCutSchl.exe
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\obj\Debug\WinCutSchl.pdb
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\obj\Debug\Interop.Cayman.dll
+C:\Users\cdupuis\Desktop\WinCutSchl Soln.CD\WinCutSchl\obj\Debug\WinCutSchl.vbproj.ResolveComReference.cache
